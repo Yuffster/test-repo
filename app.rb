@@ -2,5 +2,5 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
-  "This is the greatest continuous integration strategy in the world."
+  "Let's test this on dev."
 end
